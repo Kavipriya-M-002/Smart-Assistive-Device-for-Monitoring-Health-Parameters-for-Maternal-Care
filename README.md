@@ -1,36 +1,59 @@
 # Smart Assistive Device for Monitoring Health Parameters for Maternal Care
 
-## Overview
-A proposed wearable maternal monitoring system designed to support continuous monitoring of maternal and fetal health parameters during pregnancy. The concept integrates flexible piezoelectric sensors, embedded signal processing, deep-learning-based analysis, and wireless connectivity to support early identification of potential abnormalities and remote healthcare monitoring.
+## 🔍 Overview
 
-## Technology Stack
-- **Sensing Technology:** Piezoelectric sensors and flexible wearable materials
-- **Embedded Systems:** FPGA-based signal processing
-- **Signal Processing:** Noise cancellation and filtering
-- **Machine Learning:** Deep-learning-based signal classification
-- **Connectivity:** Bluetooth, Wi-Fi, and cloud integration
-- **Application:** Remote monitoring and healthcare data access
+This project proposes a wearable maternal monitoring system designed to monitor maternal and fetal health parameters during pregnancy. The architecture integrates flexible piezoelectric sensors, FPGA-based signal processing, deep-learning-based signal analysis, and wireless communication to support continuous health monitoring and remote access to recorded information.
 
-## Proposed Methodology
-Wearable sensors acquire maternal ECG (MECG), fetal ECG (FECG), and uterine contraction (UC) signals. The collected signals are processed through an embedded FPGA platform for noise reduction and filtering. Deep-learning models analyze the processed signals to support classification and identification of potential abnormalities. Wireless communication and cloud integration enable remote access to recorded information for healthcare monitoring.
+## 🎯 Project Objectives
 
-## Key Features
-- Wearable belt-based maternal monitoring concept
-- Flexible piezoelectric sensing architecture
-- Acquisition of maternal, fetal, and uterine activity signals
-- FPGA-assisted signal processing and noise reduction
-- Deep-learning-based signal analysis
-- Wireless connectivity for remote monitoring
-- Self-powered operation concept using energy-harvesting technologies
+- Develop a wearable sensing concept for maternal health monitoring.
+- Explore piezoelectric materials for acquiring maternal and fetal physiological signals.
+- Apply FPGA-based noise cancellation and filtering to improve signal quality.
+- Investigate deep-learning models for biomedical signal classification.
+- Enable remote monitoring through wireless communication and cloud integration.
+- Explore energy-harvesting techniques for sustainable device operation.
 
-## Key Takeaway
-This proposed system explores the integration of wearable sensing, embedded signal processing, and intelligent signal analysis to support accessible and continuous maternal healthcare monitoring.
+## 🛠️ Tools & Technologies
 
-## Skills & Domains Demonstrated
-- Sensor Technology and Wearable Electronics
+| Category | Tools / Technologies |
+|---|---|
+| Sensing Technology | Piezoelectric Sensors, Flexible Materials |
+| Design & Simulation | CAD-Based Material Analysis |
+| Embedded Systems | FPGA-Based Signal Processing |
+| Signal Processing | Noise Cancellation, Filtering |
+| Deep Learning | Biomedical Signal Classification |
+| Communication | Bluetooth, Wi-Fi |
+| Cloud Integration | Remote Health Monitoring |
+
+## ⚙️ Project Workflow
+
+- Explored flexible piezoelectric sensors for acquiring maternal ECG (MECG), fetal ECG (FECG), and uterine contraction (UC) signals.
+- Investigated CAD-based simulations for selecting suitable piezoelectric materials.
+- Proposed FPGA-based signal processing for noise cancellation and filtering.
+- Incorporated deep-learning-based analysis to support signal classification and identification of potential abnormalities.
+- Proposed wireless communication and cloud integration for remote access to recorded health information.
+
+## 🔐 Patent Information
+
+The project is associated with a **published patent application**.
+
+To respect intellectual property considerations, this repository provides only the project overview. Detailed implementation methods, internal architecture, and other potentially protected technical information are intentionally not disclosed here.
+
+- **Status:** Patent Application Published
+- **Application Number:** 202541071973
+- **Publication:** Indian Patent Office
+
+## 💡 Skills Demonstrated
+
+- Wearable Sensor Technology
 - Piezoelectric Materials
-- Embedded Systems and FPGA
+- FPGA-Based Signal Processing
 - Biomedical Signal Processing
 - Deep Learning Concepts
 - Wireless Communication and IoT
+- CAD-Based Material Analysis
 - Healthcare Technology Innovation
+
+## 👩‍💻 Project Contribution
+
+Contributed to the proposed wearable maternal monitoring concept involving piezoelectric sensing, biomedical signal processing, and intelligent health monitoring.
