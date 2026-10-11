@@ -25,14 +25,6 @@ This project proposes a wearable maternal monitoring system designed to monitor 
 | Communication | Bluetooth, Wi-Fi |
 | Cloud Integration | Remote Health Monitoring |
 
-## ⚙️ Project Workflow
-
-- Explored flexible piezoelectric sensors for acquiring maternal ECG (MECG), fetal ECG (FECG), and uterine contraction (UC) signals.
-- Investigated CAD-based simulations for selecting suitable piezoelectric materials.
-- Proposed FPGA-based signal processing for noise cancellation and filtering.
-- Incorporated deep-learning-based analysis to support signal classification and identification of potential abnormalities.
-- Proposed wireless communication and cloud integration for remote access to recorded health information.
-
 ## 🔐 Patent Information
 
 The project is associated with a **published patent application**.
